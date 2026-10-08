@@ -1,0 +1,11 @@
+{
+  "name": "tubemirror",
+  "version": "1.0.0",
+  "description": "プライバシー重視のYouTube代替ビューア",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["youtube", "invidious", "privacy", "video"],
+  "license": "MIT"
+}
