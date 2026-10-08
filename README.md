@@ -1,6 +1,7 @@
 # TubeMirror
 
-プライバシー重視のYouTube代替ビューア。Invidious APIとyoutube-nocookieを使用して、広告なしでYouTube動画を視聴できます。
+プライバシー重視のYouTube代替ビューア。
+Invidious APIとyoutube-nocookieを使用して、広告なしでYouTube動画を視聴できます。
 
 ## 機能
 
